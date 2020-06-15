@@ -1,0 +1,8 @@
+or graph.in
+ow graph.txt
+mc A H
+dfs A
+bfs B
+mc D E
+mc A H
+dc
